@@ -4,7 +4,10 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start":"nodemon app.js"
+    "start": "nodemon app.js",
+    "build": "npm start",
+    "install-python-deps": "pip install -r requirements.txt && npm install",
+    "start-combined": "npm run install-python-deps && npm start"
   },
   "author": "nagaraj",
   "license": "ISC",
