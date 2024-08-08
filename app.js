@@ -1,9 +1,21 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const { spawn } = require('child_process');
+const cors=require('cors');
 const app = express();
 const port = 8099;
 
+
+const allowedOrigins = [
+    'http://localhost:8500',
+    'https://nestjs-app-1mu7.onrender.com',
+  ];
+
+app.use(cors({
+    origin: allowedOrigins,
+    methods:[GET,POST],
+    credentials:true
+}))
 app.use(bodyParser.json());
 
 app.post('/predict', (req, res) => {const patientData = JSON.stringify(req.body);
