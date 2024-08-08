@@ -1,0 +1,3194 @@
+[
+    {
+        "patient_id": "100020",
+        "name": "Jack Smith",
+        "age": 34,
+        "gender": "Male",
+        "address": "2020 Birch St, Big City, USA",
+        "phone": "555-0020",
+        "email": "jack.smith@example.com",
+        "insurance": {
+            "provider": "BestCare",
+            "policy_number": "BC123456"
+        },
+        "medical_history": [
+            {
+                "condition": "Asthma",
+                "diagnosed_date": "2015-03-25",
+                "medications": [
+                    {
+                        "name": "Albuterol",
+                        "dosage": "90mcg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Pollen",
+            "Dust"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-20"
+            },
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-08-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-15",
+                "time": "10:00 AM",
+                "doctor": "Dr. Adams",
+                "department": "Pulmonology",
+                "reason": "Asthma check-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Spirometry",
+                "date": "2023-09-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Pulmonologist"
+    },
+    {
+        "patient_id": "100021",
+        "name": "Ava Johnson",
+        "age": 45,
+        "gender": "Female",
+        "address": "3030 Pine St, Metropolis, USA",
+        "phone": "555-0021",
+        "email": "ava.johnson@example.com",
+        "insurance": {
+            "provider": "HealthPlus",
+            "policy_number": "HP234567"
+        },
+        "medical_history": [
+            {
+                "condition": "Hypothyroidism",
+                "diagnosed_date": "2017-06-10",
+                "medications": [
+                    {
+                        "name": "Levothyroxine",
+                        "dosage": "75mcg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Shellfish"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Tetanus",
+                "date": "2023-09-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-20",
+                "time": "2:00 PM",
+                "doctor": "Dr. Baker",
+                "department": "Endocrinology",
+                "reason": "Thyroid function check"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "TSH",
+                "date": "2023-10-01",
+                "result": "Normal",
+                "normal_range": "0.4-4.0 mIU/L"
+            }
+        ],
+        "specialty": "Endocrinologist"
+    },
+    {
+        "patient_id": "100022",
+        "name": "Liam Davis",
+        "age": 29,
+        "gender": "Male",
+        "address": "4040 Cedar St, Smalltown, USA",
+        "phone": "555-0022",
+        "email": "liam.davis@example.com",
+        "insurance": {
+            "provider": "PrimeHealth",
+            "policy_number": "PH345678"
+        },
+        "medical_history": [
+            {
+                "condition": "Peptic Ulcer",
+                "diagnosed_date": "2018-01-15",
+                "medications": [
+                    {
+                        "name": "Omeprazole",
+                        "dosage": "20mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Penicillin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-07-15",
+                "time": "11:00 AM",
+                "doctor": "Dr. Lee",
+                "department": "Gastroenterology",
+                "reason": "Ulcer follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Endoscopy",
+                "date": "2023-08-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Gastroenterologist"
+    },
+    {
+        "patient_id": "100023",
+        "name": "Emily White",
+        "age": 52,
+        "gender": "Female",
+        "address": "5050 Oak St, Central City, USA",
+        "phone": "555-0023",
+        "email": "emily.white@example.com",
+        "insurance": {
+            "provider": "FamilyCare",
+            "policy_number": "FC456789"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Migraine",
+                "diagnosed_date": "2016-09-05",
+                "medications": [
+                    {
+                        "name": "Topiramate",
+                        "dosage": "50mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "NSAIDs"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-05-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-08-25",
+                "time": "3:00 PM",
+                "doctor": "Dr. Green",
+                "department": "Neurology",
+                "reason": "Migraine management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Neuroimaging",
+                "date": "2023-06-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Neurologist"
+    },
+    {
+        "patient_id": "100024",
+        "name": "Noah Miller",
+        "age": 60,
+        "gender": "Male",
+        "address": "6060 Maple St, Star City, USA",
+        "phone": "555-0024",
+        "email": "noah.miller@example.com",
+        "insurance": {
+            "provider": "SuperiorHealth",
+            "policy_number": "SH567890"
+        },
+        "medical_history": [
+            {
+                "condition": "Gout",
+                "diagnosed_date": "2019-07-20",
+                "medications": [
+                    {
+                        "name": "Allopurinol",
+                        "dosage": "300mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Sulfa drugs"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Pneumonia",
+                "date": "2023-04-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-09-10",
+                "time": "2:00 PM",
+                "doctor": "Dr. Carter",
+                "department": "Rheumatology",
+                "reason": "Gout management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Uric Acid",
+                "date": "2023-07-01",
+                "result": "High",
+                "normal_range": "3.5-7.2 mg/dL"
+            }
+        ],
+        "specialty": "Rheumatologist"
+    },
+    {
+        "patient_id": "100025",
+        "name": "Mia Williams",
+        "age": 38,
+        "gender": "Female",
+        "address": "7070 Birch St, Metroville, USA",
+        "phone": "555-0025",
+        "email": "mia.williams@example.com",
+        "insurance": {
+            "provider": "WellnessCare",
+            "policy_number": "WC678901"
+        },
+        "medical_history": [
+            {
+                "condition": "Psoriasis",
+                "diagnosed_date": "2013-04-10",
+                "medications": [
+                    {
+                        "name": "Methotrexate",
+                        "dosage": "10mg",
+                        "frequency": "Once weekly"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Nickel"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-10",
+                "time": "1:00 PM",
+                "doctor": "Dr. Scott",
+                "department": "Dermatology",
+                "reason": "Psoriasis management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Skin Biopsy",
+                "date": "2023-05-15",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Dermatologist"
+    },
+    {
+        "patient_id": "100026",
+        "name": "Ella Brown",
+        "age": 50,
+        "gender": "Female",
+        "address": "8080 Cedar St, Gotham, USA",
+        "phone": "555-0026",
+        "email": "ella.brown@example.com",
+        "insurance": {
+            "provider": "HealthNet",
+            "policy_number": "HN789012"
+        },
+        "medical_history": [
+            {
+                "condition": "Type 1 Diabetes",
+                "diagnosed_date": "2010-11-20",
+                "medications": [
+                    {
+                        "name": "Insulin",
+                        "dosage": "20 units",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Latex"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-02-15"
+            },
+            {
+                "vaccine": "Pneumonia",
+                "date": "2023-03-20"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-04-05",
+                "time": "10:00 AM",
+                "doctor": "Dr. Thomas",
+                "department": "Endocrinology",
+                "reason": "Diabetes management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Blood Glucose",
+                "date": "2023-06-01",
+                "result": "150 mg/dL",
+                "normal_range": "70-130 mg/dL"
+            }
+        ],
+        "specialty": "Endocrinologist"
+    },
+    {
+        "patient_id": "100027",
+        "name": "James Taylor",
+        "age": 41,
+        "gender": "Male",
+        "address": "9090 Oak St, Star City, USA",
+        "phone": "555-0027",
+        "email": "james.taylor@example.com",
+        "insurance": {
+            "provider": "CarePlus",
+            "policy_number": "CP890123"
+        },
+        "medical_history": [
+            {
+                "condition": "Hyperlipidemia",
+                "diagnosed_date": "2018-12-10",
+                "medications": [
+                    {
+                        "name": "Atorvastatin",
+                        "dosage": "40mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Penicillin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-01-15",
+                "time": "3:00 PM",
+                "doctor": "Dr. Miller",
+                "department": "Cardiology",
+                "reason": "Cholesterol follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Lipid Panel",
+                "date": "2023-07-01",
+                "result": "High LDL",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Cardiologist"
+    },
+    {
+        "patient_id": "100028",
+        "name": "Sophia Wilson",
+        "age": 62,
+        "gender": "Female",
+        "address": "1010 Pine St, Central City, USA",
+        "phone": "555-0028",
+        "email": "sophia.wilson@example.com",
+        "insurance": {
+            "provider": "Wellcare",
+            "policy_number": "WC901234"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Bronchitis",
+                "diagnosed_date": "2015-06-25",
+                "medications": [
+                    {
+                        "name": "Bronchodilator",
+                        "dosage": "2 puffs",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Dust"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-05"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-20",
+                "time": "9:00 AM",
+                "doctor": "Dr. Wright",
+                "department": "Pulmonology",
+                "reason": "Bronchitis follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Chest X-ray",
+                "date": "2023-08-15",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Pulmonologist"
+    },
+    {
+        "patient_id": "100029",
+        "name": "Lucas Martinez",
+        "age": 37,
+        "gender": "Male",
+        "address": "1212 Cedar St, Metroville, USA",
+        "phone": "555-0029",
+        "email": "lucas.martinez@example.com",
+        "insurance": {
+            "provider": "MaxHealth",
+            "policy_number": "MH123456"
+        },
+        "medical_history": [
+            {
+                "condition": "Epilepsy",
+                "diagnosed_date": "2011-10-10",
+                "medications": [
+                    {
+                        "name": "Levetiracetam",
+                        "dosage": "500mg",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Sulfa drugs"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-07-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-02-20",
+                "time": "1:00 PM",
+                "doctor": "Dr. Rodriguez",
+                "department": "Neurology",
+                "reason": "Epilepsy management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "EEG",
+                "date": "2023-09-10",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Neurologist"
+    },
+    {
+        "patient_id": "100030",
+        "name": "Charlotte Evans",
+        "age": 29,
+        "gender": "Female",
+        "address": "1414 Oak St, Gotham, USA",
+        "phone": "555-0030",
+        "email": "charlotte.evans@example.com",
+        "insurance": {
+            "provider": "SmartHealth",
+            "policy_number": "SH234567"
+        },
+        "medical_history": [
+            {
+                "condition": "Asthma",
+                "diagnosed_date": "2018-02-20",
+                "medications": [
+                    {
+                        "name": "Inhaler",
+                        "dosage": "2 puffs",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Pollen"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-07-25",
+                "time": "2:00 PM",
+                "doctor": "Dr. Lee",
+                "department": "Pulmonology",
+                "reason": "Asthma management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Lung Function Test",
+                "date": "2023-08-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Pulmonologist"
+    },
+    {
+        "patient_id": "100031",
+        "name": "William Johnson",
+        "age": 55,
+        "gender": "Male",
+        "address": "1616 Pine St, Star City, USA",
+        "phone": "555-0031",
+        "email": "william.johnson@example.com",
+        "insurance": {
+            "provider": "NationalCare",
+            "policy_number": "NC345678"
+        },
+        "medical_history": [
+            {
+                "condition": "Gout",
+                "diagnosed_date": "2016-11-15",
+                "medications": [
+                    {
+                        "name": "Allopurinol",
+                        "dosage": "300mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Shellfish"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-03-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-15",
+                "time": "10:00 AM",
+                "doctor": "Dr. Green",
+                "department": "Rheumatology",
+                "reason": "Gout follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Uric Acid Level",
+                "date": "2023-09-01",
+                "result": "High",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Rheumatologist"
+    },
+    {
+        "patient_id": "100032",
+        "name": "Amelia White",
+        "age": 40,
+        "gender": "Female",
+        "address": "1717 Maple St, Central City, USA",
+        "phone": "555-0032",
+        "email": "amelia.white@example.com",
+        "insurance": {
+            "provider": "PremierHealth",
+            "policy_number": "PH456789"
+        },
+        "medical_history": [
+            {
+                "condition": "Hypothyroidism",
+                "diagnosed_date": "2019-06-01",
+                "medications": [
+                    {
+                        "name": "Levothyroxine",
+                        "dosage": "100mcg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Iodine"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Tetanus",
+                "date": "2023-01-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-08-10",
+                "time": "11:00 AM",
+                "doctor": "Dr. Adams",
+                "department": "Endocrinology",
+                "reason": "Thyroid management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "TSH Levels",
+                "date": "2023-07-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Endocrinologist"
+    },
+    {
+        "patient_id": "100033",
+        "name": "Evelyn Clark",
+        "age": 45,
+        "gender": "Female",
+        "address": "1818 Birch St, Metroville, USA",
+        "phone": "555-0033",
+        "email": "evelyn.clark@example.com",
+        "insurance": {
+            "provider": "CarePlus",
+            "policy_number": "CP567890"
+        },
+        "medical_history": [
+            {
+                "condition": "Osteoarthritis",
+                "diagnosed_date": "2015-09-01",
+                "medications": [
+                    {
+                        "name": "Ibuprofen",
+                        "dosage": "400mg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Wheat"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-12-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-03-15",
+                "time": "2:00 PM",
+                "doctor": "Dr. Harris",
+                "department": "Rheumatology",
+                "reason": "Osteoarthritis management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Joint X-ray",
+                "date": "2023-10-01",
+                "result": "Mild osteophytes",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Rheumatologist"
+    },
+    {
+        "patient_id": "100034",
+        "name": "Henry Adams",
+        "age": 52,
+        "gender": "Male",
+        "address": "2020 Cedar St, Gotham, USA",
+        "phone": "555-0034",
+        "email": "henry.adams@example.com",
+        "insurance": {
+            "provider": "OptimaCare",
+            "policy_number": "OC789012"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Kidney Disease",
+                "diagnosed_date": "2018-05-01",
+                "medications": [
+                    {
+                        "name": "Lisinopril",
+                        "dosage": "20mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Iodine"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Pneumonia",
+                "date": "2023-05-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-09-10",
+                "time": "3:00 PM",
+                "doctor": "Dr. Smith",
+                "department": "Nephrology",
+                "reason": "Kidney function monitoring"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Kidney Function Test",
+                "date": "2023-08-01",
+                "result": "Stable",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Nephrologist"
+    },
+    {
+        "patient_id": "100035",
+        "name": "Sophie Turner",
+        "age": 34,
+        "gender": "Female",
+        "address": "2121 Maple St, Central City, USA",
+        "phone": "555-0035",
+        "email": "sophie.turner@example.com",
+        "insurance": {
+            "provider": "HealthyLife",
+            "policy_number": "HL678901"
+        },
+        "medical_history": [
+            {
+                "condition": "Irritable Bowel Syndrome",
+                "diagnosed_date": "2020-01-15",
+                "medications": [
+                    {
+                        "name": "Loperamide",
+                        "dosage": "2mg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Gluten"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-04-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-11-20",
+                "time": "4:00 PM",
+                "doctor": "Dr. Brooks",
+                "department": "Gastroenterology",
+                "reason": "IBS management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Colonoscopy",
+                "date": "2023-07-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Gastroenterologist"
+    },
+    {
+        "patient_id": "100036",
+        "name": "James Wilson",
+        "age": 47,
+        "gender": "Male",
+        "address": "2323 Oak St, Star City, USA",
+        "phone": "555-0036",
+        "email": "james.wilson@example.com",
+        "insurance": {
+            "provider": "EliteHealth",
+            "policy_number": "EH678902"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Back Pain",
+                "diagnosed_date": "2015-06-01",
+                "medications": [
+                    {
+                        "name": "Oxycodone",
+                        "dosage": "10mg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Codeine"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-02-25",
+                "time": "1:00 PM",
+                "doctor": "Dr. Martinez",
+                "department": "Orthopedics",
+                "reason": "Back pain evaluation"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Spinal X-ray",
+                "date": "2023-09-01",
+                "result": "Degenerative changes",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Orthopedist"
+    },
+    {
+        "patient_id": "100037",
+        "name": "Isabella Harris",
+        "age": 26,
+        "gender": "Female",
+        "address": "2525 Pine St, Metroville, USA",
+        "phone": "555-0037",
+        "email": "isabella.harris@example.com",
+        "insurance": {
+            "provider": "CareNet",
+            "policy_number": "CN789012"
+        },
+        "medical_history": [
+            {
+                "condition": "Eczema",
+                "diagnosed_date": "2017-03-10",
+                "medications": [
+                    {
+                        "name": "Hydrocortisone",
+                        "dosage": "1%",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Nickel"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Tetanus",
+                "date": "2023-02-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-30",
+                "time": "10:00 AM",
+                "doctor": "Dr. Reed",
+                "department": "Dermatology",
+                "reason": "Eczema follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Skin Biopsy",
+                "date": "2023-05-01",
+                "result": "Eczema confirmed",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Dermatologist"
+    },
+    {
+        "patient_id": "100038",
+        "name": "Benjamin Lewis",
+        "age": 61,
+        "gender": "Male",
+        "address": "2727 Cedar St, Gotham, USA",
+        "phone": "555-0038",
+        "email": "benjamin.lewis@example.com",
+        "insurance": {
+            "provider": "NationalCare",
+            "policy_number": "NC456789"
+        },
+        "medical_history": [
+            {
+                "condition": "Macular Degeneration",
+                "diagnosed_date": "2015-09-20",
+                "medications": [
+                    {
+                        "name": "Latanoprost",
+                        "dosage": "0.005%",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Sulfa drugs"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Pneumonia",
+                "date": "2023-08-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-04-10",
+                "time": "9:00 AM",
+                "doctor": "Dr. Evans",
+                "department": "Ophthalmology",
+                "reason": "Eye exam"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Eye Exam",
+                "date": "2023-06-01",
+                "result": "Progressive degeneration",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Ophthalmologist"
+    },
+    {
+        "patient_id": "100039",
+        "name": "Mia Lewis",
+        "age": 32,
+        "gender": "Female",
+        "address": "2929 Birch St, Central City, USA",
+        "phone": "555-0039",
+        "email": "mia.lewis@example.com",
+        "insurance": {
+            "provider": "Wellbeing",
+            "policy_number": "WB345678"
+        },
+        "medical_history": [
+            {
+                "condition": "Multiple Sclerosis",
+                "diagnosed_date": "2018-07-15",
+                "medications": [
+                    {
+                        "name": "Interferon beta-1a",
+                        "dosage": "30mcg",
+                        "frequency": "Once weekly"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Peanuts"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-01-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-10-05",
+                "time": "3:00 PM",
+                "doctor": "Dr. White",
+                "department": "Neurology",
+                "reason": "MS management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "MRI",
+                "date": "2023-05-01",
+                "result": "Active lesions",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Neurologist"
+    },
+    {
+        "patient_id": "100040",
+        "name": "Daniel Miller",
+        "age": 52,
+        "gender": "Male",
+        "address": "3030 Maple St, Star City, USA",
+        "phone": "555-0040",
+        "email": "daniel.miller@example.com",
+        "insurance": {
+            "provider": "OptimaCare",
+            "policy_number": "OC789012"
+        },
+        "medical_history": [
+            {
+                "condition": "Gout",
+                "diagnosed_date": "2019-02-20",
+                "medications": [
+                    {
+                        "name": "Allopurinol",
+                        "dosage": "100mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Aspirin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-15",
+                "time": "11:00 AM",
+                "doctor": "Dr. Wright",
+                "department": "Rheumatology",
+                "reason": "Gout follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Serum Uric Acid",
+                "date": "2023-06-15",
+                "result": "High",
+                "normal_range": "3.5-7.2 mg/dL"
+            }
+        ],
+        "specialty": "Rheumatologist"
+    },
+    {
+        "patient_id": "100041",
+        "name": "Natalie Green",
+        "age": 29,
+        "gender": "Female",
+        "address": "3131 Cedar St, Metroville, USA",
+        "phone": "555-0041",
+        "email": "natalie.green@example.com",
+        "insurance": {
+            "provider": "HealthyLife",
+            "policy_number": "HL789013"
+        },
+        "medical_history": [
+            {
+                "condition": "Psoriasis",
+                "diagnosed_date": "2018-11-10",
+                "medications": [
+                    {
+                        "name": "Topical Steroids",
+                        "dosage": "0.05%",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Sulfa drugs"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-03-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-07-10",
+                "time": "2:00 PM",
+                "doctor": "Dr. Davis",
+                "department": "Dermatology",
+                "reason": "Psoriasis check-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Skin Evaluation",
+                "date": "2023-04-01",
+                "result": "Stable",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Dermatologist"
+    },
+    {
+        "patient_id": "100042",
+        "name": "Matthew King",
+        "age": 42,
+        "gender": "Male",
+        "address": "3232 Birch St, Central City, USA",
+        "phone": "555-0042",
+        "email": "matthew.king@example.com",
+        "insurance": {
+            "provider": "TotalCare",
+            "policy_number": "TC456790"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Obstructive Pulmonary Disease",
+                "diagnosed_date": "2016-04-01",
+                "medications": [
+                    {
+                        "name": "Tiotropium",
+                        "dosage": "18mcg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Pollen"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Pneumonia",
+                "date": "2023-01-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-03-25",
+                "time": "10:00 AM",
+                "doctor": "Dr. Carter",
+                "department": "Pulmonology",
+                "reason": "COPD follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Spirometry",
+                "date": "2023-02-15",
+                "result": "Reduced lung function",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Pulmonologist"
+    },
+    {
+        "patient_id": "100043",
+        "name": "Ella Johnson",
+        "age": 39,
+        "gender": "Female",
+        "address": "3333 Maple St, Gotham, USA",
+        "phone": "555-0043",
+        "email": "ella.johnson@example.com",
+        "insurance": {
+            "provider": "LifeCare",
+            "policy_number": "LC345678"
+        },
+        "medical_history": [
+            {
+                "condition": "Migraine",
+                "diagnosed_date": "2018-08-01",
+                "medications": [
+                    {
+                        "name": "Sumatriptan",
+                        "dosage": "100mg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Caffeine"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-12-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-08-20",
+                "time": "4:00 PM",
+                "doctor": "Dr. Gray",
+                "department": "Neurology",
+                "reason": "Migraine management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Neurological Evaluation",
+                "date": "2023-05-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Neurologist"
+    },
+    {
+        "patient_id": "100044",
+        "name": "Lucas Harris",
+        "age": 55,
+        "gender": "Male",
+        "address": "3434 Oak St, Metroville, USA",
+        "phone": "555-0044",
+        "email": "lucas.harris@example.com",
+        "insurance": {
+            "provider": "Wellbeing",
+            "policy_number": "WB678903"
+        },
+        "medical_history": [
+            {
+                "condition": "Benign Prostatic Hyperplasia",
+                "diagnosed_date": "2021-10-05",
+                "medications": [
+                    {
+                        "name": "Tamsulosin",
+                        "dosage": "0.4mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Penicillin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Pneumonia",
+                "date": "2023-05-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-09-15",
+                "time": "11:00 AM",
+                "doctor": "Dr. Lee",
+                "department": "Urology",
+                "reason": "BPH follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Prostate-Specific Antigen",
+                "date": "2023-06-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Urologist"
+    },
+    {
+        "patient_id": "100045",
+        "name": "Zoe Martinez",
+        "age": 33,
+        "gender": "Female",
+        "address": "3535 Cedar St, Star City, USA",
+        "phone": "555-0045",
+        "email": "zoe.martinez@example.com",
+        "insurance": {
+            "provider": "HealthGuard",
+            "policy_number": "HG890123"
+        },
+        "medical_history": [
+            {
+                "condition": "Irritable Bowel Syndrome",
+                "diagnosed_date": "2017-09-01",
+                "medications": [
+                    {
+                        "name": "Loperamide",
+                        "dosage": "2mg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Shellfish"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Hepatitis B",
+                "date": "2023-08-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-15",
+                "time": "3:00 PM",
+                "doctor": "Dr. White",
+                "department": "Gastroenterology",
+                "reason": "IBS management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Colonoscopy",
+                "date": "2023-07-10",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Gastroenterologist"
+    },
+    {
+        "patient_id": "100046",
+        "name": "Liam Robinson",
+        "age": 61,
+        "gender": "Male",
+        "address": "3636 Maple St, Central City, USA",
+        "phone": "555-0046",
+        "email": "liam.robinson@example.com",
+        "insurance": {
+            "provider": "Medicare",
+            "policy_number": "MC678901"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Kidney Disease",
+                "diagnosed_date": "2015-07-01",
+                "medications": [
+                    {
+                        "name": "Lisinopril",
+                        "dosage": "20mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Penicillin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-04-10",
+                "time": "9:00 AM",
+                "doctor": "Dr. Adams",
+                "department": "Nephrology",
+                "reason": "CKD management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Kidney Function Test",
+                "date": "2023-05-15",
+                "result": "Stable",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Nephrologist"
+    },
+    {
+        "patient_id": "100047",
+        "name": "Sophia Walker",
+        "age": 47,
+        "gender": "Female",
+        "address": "3737 Birch St, Metroville, USA",
+        "phone": "555-0047",
+        "email": "sophia.walker@example.com",
+        "insurance": {
+            "provider": "EliteHealth",
+            "policy_number": "EH678902"
+        },
+        "medical_history": [
+            {
+                "condition": "Multiple Sclerosis",
+                "diagnosed_date": "2014-06-15",
+                "medications": [
+                    {
+                        "name": "Interferon beta",
+                        "dosage": "30mcg",
+                        "frequency": "Once weekly"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Peanuts"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-05-20"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-10-05",
+                "time": "1:00 PM",
+                "doctor": "Dr. Smith",
+                "department": "Neurology",
+                "reason": "MS follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "MRI of the Brain",
+                "date": "2023-08-20",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Neurologist"
+    },
+    {
+        "patient_id": "100048",
+        "name": "Ethan Walker",
+        "age": 50,
+        "gender": "Male",
+        "address": "3838 Oak St, Star City, USA",
+        "phone": "555-0048",
+        "email": "ethan.walker@example.com",
+        "insurance": {
+            "provider": "Wellbeing",
+            "policy_number": "WB789012"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Migraines",
+                "diagnosed_date": "2019-12-15",
+                "medications": [
+                    {
+                        "name": "Topiramate",
+                        "dosage": "50mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Dust"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-01-15",
+                "time": "2:00 PM",
+                "doctor": "Dr. Gray",
+                "department": "Neurology",
+                "reason": "Migraine follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Neurological Assessment",
+                "date": "2023-09-15",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Neurologist"
+    },
+    {
+        "patient_id": "100049",
+        "name": "Charlotte Young",
+        "age": 38,
+        "gender": "Female",
+        "address": "3939 Pine St, Central City, USA",
+        "phone": "555-0049",
+        "email": "charlotte.young@example.com",
+        "insurance": {
+            "provider": "HealthGuard",
+            "policy_number": "HG901234"
+        },
+        "medical_history": [
+            {
+                "condition": "Rheumatoid Arthritis",
+                "diagnosed_date": "2020-05-01",
+                "medications": [
+                    {
+                        "name": "Hydroxychloroquine",
+                        "dosage": "200mg",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Lactose"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-02-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-05",
+                "time": "10:00 AM",
+                "doctor": "Dr. Wilson",
+                "department": "Rheumatology",
+                "reason": "RA follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Rheumatoid Factor",
+                "date": "2023-07-15",
+                "result": "Positive",
+                "normal_range": "Negative"
+            }
+        ],
+        "specialty": "Rheumatologist"
+    },
+    {
+        "patient_id": "100050",
+        "name": "Benjamin Moore",
+        "age": 42,
+        "gender": "Male",
+        "address": "4040 Maple St, Metroville, USA",
+        "phone": "555-0050",
+        "email": "benjamin.moore@example.com",
+        "insurance": {
+            "provider": "EliteHealth",
+            "policy_number": "EH901235"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Back Pain",
+                "diagnosed_date": "2016-03-10",
+                "medications": [
+                    {
+                        "name": "Naproxen",
+                        "dosage": "500mg",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Dust mites"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-12-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-15",
+                "time": "11:00 AM",
+                "doctor": "Dr. Parker",
+                "department": "Orthopedics",
+                "reason": "Back pain management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "X-ray of the Spine",
+                "date": "2023-04-10",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Orthopedist"
+    },
+    {
+        "patient_id": "100051",
+        "name": "Isabella Johnson",
+        "age": 29,
+        "gender": "Female",
+        "address": "4141 Cedar St, Central City, USA",
+        "phone": "555-0051",
+        "email": "isabella.johnson@example.com",
+        "insurance": {
+            "provider": "Wellbeing",
+            "policy_number": "WB901236"
+        },
+        "medical_history": [
+            {
+                "condition": "Hypothyroidism",
+                "diagnosed_date": "2018-10-01",
+                "medications": [
+                    {
+                        "name": "Levothyroxine",
+                        "dosage": "100mcg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Soy"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-07-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-09-10",
+                "time": "2:00 PM",
+                "doctor": "Dr. Thompson",
+                "department": "Endocrinology",
+                "reason": "Thyroid management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Thyroid Function Test",
+                "date": "2023-06-15",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Endocrinologist"
+    },
+    {
+        "patient_id": "100052",
+        "name": "James Miller",
+        "age": 55,
+        "gender": "Male",
+        "address": "4242 Pine St, Metroville, USA",
+        "phone": "555-0052",
+        "email": "james.miller@example.com",
+        "insurance": {
+            "provider": "CareNet",
+            "policy_number": "CN901237"
+        },
+        "medical_history": [
+            {
+                "condition": "Gastroesophageal Reflux Disease",
+                "diagnosed_date": "2015-04-20",
+                "medications": [
+                    {
+                        "name": "Omeprazole",
+                        "dosage": "20mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Shellfish"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-20",
+                "time": "10:00 AM",
+                "doctor": "Dr. Nelson",
+                "department": "Gastroenterology",
+                "reason": "GERD management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Endoscopy",
+                "date": "2023-03-15",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Gastroenterologist"
+    },
+    {
+        "patient_id": "100053",
+        "name": "Ava Taylor",
+        "age": 40,
+        "gender": "Female",
+        "address": "4343 Oak St, Star City, USA",
+        "phone": "555-0053",
+        "email": "ava.taylor@example.com",
+        "insurance": {
+            "provider": "EliteHealth",
+            "policy_number": "EH901238"
+        },
+        "medical_history": [
+            {
+                "condition": "Psoriasis",
+                "diagnosed_date": "2019-08-10",
+                "medications": [
+                    {
+                        "name": "Topical Steroids",
+                        "dosage": "Varies",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Wheat"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-09-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-07-05",
+                "time": "3:00 PM",
+                "doctor": "Dr. Lee",
+                "department": "Dermatology",
+                "reason": "Psoriasis management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Skin Biopsy",
+                "date": "2023-06-20",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Dermatologist"
+    },
+    {
+        "patient_id": "100054",
+        "name": "Mason Harris",
+        "age": 53,
+        "gender": "Male",
+        "address": "4444 Birch St, Central City, USA",
+        "phone": "555-0054",
+        "email": "mason.harris@example.com",
+        "insurance": {
+            "provider": "HealthGuard",
+            "policy_number": "HG901239"
+        },
+        "medical_history": [
+            {
+                "condition": "Atrial Fibrillation",
+                "diagnosed_date": "2016-01-15",
+                "medications": [
+                    {
+                        "name": "Warfarin",
+                        "dosage": "5mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Iodine"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-08-15",
+                "time": "11:00 AM",
+                "doctor": "Dr. Clark",
+                "department": "Cardiology",
+                "reason": "AFib management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "EKG",
+                "date": "2023-09-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Cardiologist"
+    },
+    {
+        "patient_id": "100051",
+        "name": "Henry Reed",
+        "age": 33,
+        "gender": "Male",
+        "address": "2020 Elm St, Gotham, USA",
+        "phone": "555-0051",
+        "email": "henry.reed@example.com",
+        "insurance": {
+            "provider": "CarePlus",
+            "policy_number": "CP890123"
+        },
+        "medical_history": [
+            {
+                "condition": "Psoriasis",
+                "diagnosed_date": "2015-04-22",
+                "medications": [
+                    {
+                        "name": "Calcipotriene",
+                        "dosage": "50mcg/g",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [                                      
+            "Penicillin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-03-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-02-25",
+                "time": "10:00 AM",
+                "doctor": "Dr. Thomas",
+                "department": "Dermatology",
+                "reason": "Skin condition follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Skin Biopsy",
+                "date": "2023-01-10",
+                "result": "Positive for psoriasis",
+                "normal_range": "Negative"
+            }
+        ],
+        "specialty": "Dermatologist"
+    },
+    {
+        "patient_id": "100052",
+        "name": "Grace Allen",
+        "age": 40,
+        "gender": "Female",
+        "address": "3030 Cedar St, Metroville, USA",
+        "phone": "555-0052",
+        "email": "grace.allen@example.com",
+        "insurance": {
+            "provider": "MedHealth",
+            "policy_number": "MH345678"
+        },
+        "medical_history": [
+            {
+                "condition": "Hypothyroidism",
+                "diagnosed_date": "2018-07-05",
+                "medications": [
+                    {
+                        "name": "Levothyroxine",
+                        "dosage": "100mcg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Latex"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-04-12",
+                "time": "2:00 PM",
+                "doctor": "Dr. Smith",
+                "department": "Endocrinology",
+                "reason": "Thyroid check-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Thyroid Function Test",
+                "date": "2023-09-05",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Endocrinologist"
+    },
+    {
+        "patient_id": "100053",
+        "name": "Eleanor Hughes",
+        "age": 50,
+        "gender": "Female",
+        "address": "4040 Birch St, Central City, USA",
+        "phone": "555-0053",
+        "email": "eleanor.hughes@example.com",
+        "insurance": {
+            "provider": "UnitedHealth",
+            "policy_number": "UH456789"
+        },
+        "medical_history": [
+            {
+                "condition": "Osteoarthritis",
+                "diagnosed_date": "2019-01-15",
+                "medications": [
+                    {
+                        "name": "Ibuprofen",
+                        "dosage": "400mg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Sulfa drugs"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Tetanus",
+                "date": "2023-08-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-10",
+                "time": "1:00 PM",
+                "doctor": "Dr. Davis",
+                "department": "Rheumatology",
+                "reason": "Joint pain management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Joint X-ray",
+                "date": "2023-02-10",
+                "result": "Mild arthritis",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Rheumatologist"
+    },
+    {
+        "patient_id": "100054",
+        "name": "Lucas Murphy",
+        "age": 29,
+        "gender": "Male",
+        "address": "5050 Maple St, Star City, USA",
+        "phone": "555-0054",
+        "email": "lucas.murphy@example.com",
+        "insurance": {
+            "provider": "BlueCross",
+            "policy_number": "BC567890"
+        },
+        "medical_history": [
+            {
+                "condition": "Allergic Rhinitis",
+                "diagnosed_date": "2017-05-20",
+                "medications": [
+                    {
+                        "name": "Cetirizine",
+                        "dosage": "10mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Pollen"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-04-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-08-15",
+                "time": "3:00 PM",
+                "doctor": "Dr. Young",
+                "department": "Allergy",
+                "reason": "Allergy management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Allergy Test",
+                "date": "2023-03-15",
+                "result": "Positive for pollen",
+                "normal_range": "Negative"
+            }
+        ],
+        "specialty": "Allergist"
+    },
+    {
+        "patient_id": "100055",
+        "name": "Natalie King",
+        "age": 62,
+        "gender": "Female",
+        "address": "6060 Oak St, Metroville, USA",
+        "phone": "555-0055",
+        "email": "natalie.king@example.com",
+        "insurance": {
+            "provider": "Aetna",
+            "policy_number": "AT678901"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Obstructive Pulmonary Disease (COPD)",
+                "diagnosed_date": "2016-09-10",
+                "medications": [
+                    {
+                        "name": "Tiotropium",
+                        "dosage": "18mcg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Dust"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-20",
+                "time": "2:00 PM",
+                "doctor": "Dr. Miller",
+                "department": "Pulmonology",
+                "reason": "COPD management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Pulmonary Function Test",
+                "date": "2023-02-20",
+                "result": "Decreased lung function",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Pulmonologist"
+    },
+    {
+        "patient_id": "100056",
+        "name": "Sebastian Lee",
+        "age": 38,
+        "gender": "Male",
+        "address": "7070 Pine St, Gotham, USA",
+        "phone": "555-0056",
+        "email": "sebastian.lee@example.com",
+        "insurance": {
+            "provider": "Cigna",
+            "policy_number": "CI789012"
+        },
+        "medical_history": [
+            {
+                "condition": "Gastroesophageal Reflux Disease (GERD)",
+                "diagnosed_date": "2017-06-10",
+                "medications": [
+                    {
+                        "name": "Omeprazole",
+                        "dosage": "20mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Shellfish"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-05-05"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-07-10",
+                "time": "11:00 AM",
+                "doctor": "Dr. Moore",
+                "department": "Gastroenterology",
+                "reason": "GERD management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Endoscopy",
+                "date": "2023-03-01",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Gastroenterologist"
+    },
+    {
+        "patient_id": "100057",
+        "name": "Mia Cooper",
+        "age": 26,
+        "gender": "Female",
+        "address": "8080 Cedar St, Smalltown, USA",
+        "phone": "555-0057",
+        "email": "mia.cooper@example.com",
+        "insurance": {
+            "provider": "HealthNet",
+            "policy_number": "HN890123"
+        },
+        "medical_history": [
+            {
+                "condition": "Asthma",
+                "diagnosed_date": "2019-10-01",
+                "medications": [
+                    {
+                        "name": "Albuterol",
+                        "dosage": "90mcg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Pet dander"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-01-20",
+                "time": "4:00 PM",
+                "doctor": "Dr. Green",
+                "department": "Pulmonology",
+                "reason": "Asthma follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Lung Function Test",
+                "date": "2023-08-20",
+                "result": "Mild obstruction",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Pulmonologist"
+    },
+    {
+        "patient_id": "100058",
+        "name": "Leo Wilson",
+        "age": 55,
+        "gender": "Male",
+        "address": "9090 Maple St, Central City, USA",
+        "phone": "555-0058",
+        "email": "leo.wilson@example.com",
+        "insurance": {
+            "provider": "UnitedHealthcare",
+            "policy_number": "UH123456"
+        },
+        "medical_history": [
+            {
+                "condition": "Type 1 Diabetes",
+                "diagnosed_date": "2000-08-12",
+                "medications": [
+                    {
+                        "name": "Insulin",
+                        "dosage": "Varies",
+                        "frequency": "Multiple times daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Penicillin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Tetanus",
+                "date": "2023-09-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-03-05",
+                "time": "9:00 AM",
+                "doctor": "Dr. Scott",
+                "department": "Endocrinology",
+                "reason": "Diabetes management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Blood Glucose",
+                "date": "2023-06-15",
+                "result": "150 mg/dL",
+                "normal_range": "70-100 mg/dL"
+            }
+        ],
+        "specialty": "Endocrinologist"
+    },
+    {
+        "patient_id": "100059",
+        "name": "Isabella Taylor",
+        "age": 43,
+        "gender": "Female",
+        "address": "1010 Birch St, Star City, USA",
+        "phone": "555-0059",
+        "email": "isabella.taylor@example.com",
+        "insurance": {
+            "provider": "Humana",
+            "policy_number": "HU234567"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Fatigue Syndrome",
+                "diagnosed_date": "2016-11-01",
+                "medications": [
+                    {
+                        "name": "Modafinil",
+                        "dosage": "200mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Mold"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-07-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-25",
+                "time": "10:00 AM",
+                "doctor": "Dr. Reed",
+                "department": "Internal Medicine",
+                "reason": "Fatigue management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Fatigue Assessment",
+                "date": "2023-04-15",
+                "result": "Increased fatigue",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Internist"
+    },
+    {
+        "patient_id": "100060",
+        "name": "James Carter",
+        "age": 67,
+        "gender": "Male",
+        "address": "1212 Elm St, Metroville, USA",
+        "phone": "555-0060",
+        "email": "james.carter@example.com",
+        "insurance": {
+            "provider": "Kaiser Permanente",
+            "policy_number": "KP345678"
+        },
+        "medical_history": [
+            {
+                "condition": "Parkinson's Disease",
+                "diagnosed_date": "2015-02-14",
+                "medications": [
+                    {
+                        "name": "Levodopa",
+                        "dosage": "100mg",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Penicillin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-02-05",
+                "time": "3:00 PM",
+                "doctor": "Dr. Turner",
+                "department": "Neurology",
+                "reason": "Parkinson's management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Neurological Exam",
+                "date": "2023-01-20",
+                "result": "Parkinson's symptoms present",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Neurologist"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "patient_id": "100058",
+        "name": "Rahul Khanna",
+        "age": 45,
+        "gender": "Male",
+        "address": "3050 Mango St, New Delhi, India",
+        "phone": "+91-9876543210",
+        "email": "rahul.khanna@example.com",
+        "insurance": {
+            "provider": "MediCare India",
+            "policy_number": "MC789456"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Bronchitis",
+                "diagnosed_date": "2017-08-14",
+                "medications": [
+                    {
+                        "name": "Tiotropium",
+                        "dosage": "18mcg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Pollution"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-12"
+            },
+            {
+                "vaccine": "Pneumococcal",
+                "date": "2023-08-25"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-05",
+                "time": "11:00 AM",
+                "doctor": "Dr. Priya Mehra",
+                "department": "Pulmonology",
+                "reason": "Bronchitis management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Chest X-ray",
+                "date": "2023-10-01",
+                "result": "Mild inflammation",
+                "normal_range": "No inflammation"
+            }
+        ],
+        "specialty": "Pulmonologist"
+    },    
+    {
+        "patient_id": "100022",
+        "name": "Sana Khan",
+        "age": 28,
+        "gender": "Female",
+        "address": "1507 Oak Avenue, Mumbai, India",
+        "phone": "+91-9123456780",
+        "email": "sana.khan@example.com",
+        "insurance": {
+            "provider": "LifeSecure",
+            "policy_number": "LS654321"
+        },
+        "medical_history": [
+            {
+                "condition": "Acid Reflux",
+                "diagnosed_date": "2020-11-05",
+                "medications": [
+                    {
+                        "name": "Omeprazole",
+                        "dosage": "20mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Peanuts"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Hepatitis B",
+                "date": "2023-07-15"
+            },
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-20"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-22",
+                "time": "9:00 AM",
+                "doctor": "Dr. Rajesh Patel",
+                "department": "Gastroenterology",
+                "reason": "GERD follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Endoscopy",
+                "date": "2023-12-10",
+                "result": "Mild esophagitis",
+                "normal_range": "No esophagitis"
+            }
+        ],
+        "specialty": "Gastroenterologist"
+    },
+    {
+        "patient_id": "100023",
+        "name": "Rohan Desai",
+        "age": 52,
+        "gender": "Male",
+        "address": "78 Banyan Road, Bengaluru, India",
+        "phone": "+91-9098765432",
+        "email": "rohan.desai@example.com",
+        "insurance": {
+            "provider": "CareHealth",
+            "policy_number": "CH234567"
+        },
+        "medical_history": [
+            {
+                "condition": "Coronary Artery Disease",
+                "diagnosed_date": "2018-05-10",
+                "medications": [
+                    {
+                        "name": "Aspirin",
+                        "dosage": "81mg",
+                        "frequency": "Once daily"
+                    },
+                    {
+                        "name": "Atorvastatin",
+                        "dosage": "20mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Penicillin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-11-05"
+            },
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-07-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-20",
+                "time": "10:30 AM",
+                "doctor": "Dr. Kavita Reddy",
+                "department": "Cardiology",
+                "reason": "Heart check-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "ECG",
+                "date": "2024-01-15",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Cardiologist"
+    },
+    {
+        "patient_id": "100024",
+        "name": "Meera Iyer",
+        "age": 40,
+        "gender": "Female",
+        "address": "16 Lotus Apartments, Chennai, India",
+        "phone": "+91-9987654321",
+        "email": "meera.iyer@example.com",
+        "insurance": {
+            "provider": "HealthFirst",
+            "policy_number": "HF345678"
+        },
+        "medical_history": [
+            {
+                "condition": "Hypertension",
+                "diagnosed_date": "2021-03-22",
+                "medications": [
+                    {
+                        "name": "Lisinopril",
+                        "dosage": "10mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Sulfa drugs"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Tetanus",
+                "date": "2023-06-14"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-10",
+                "time": "2:00 PM",
+                "doctor": "Dr. Sunil Sharma",
+                "department": "Internal Medicine",
+                "reason": "Hypertension follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Blood Pressure",
+                "date": "2023-12-01",
+                "result": "140/90 mmHg",
+                "normal_range": "120/80 mmHg"
+            }
+        ],
+        "specialty": "Internist"
+    },
+    {
+        "patient_id": "100025",
+        "name": "Lakshmi Menon",
+        "age": 37,
+        "gender": "Female",
+        "address": "405 Jasmine Lane, Kochi, India",
+        "phone": "+91-9876543219",
+        "email": "lakshmi.menon@example.com",
+        "insurance": {
+            "provider": "GoodHealth",
+            "policy_number": "GH456789"
+        },
+        "medical_history": [
+            {
+                "condition": "Migraines",
+                "diagnosed_date": "2019-02-15",
+                "medications": [
+                    {
+                        "name": "Sumatriptan",
+                        "dosage": "50mg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Gluten"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-10-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-05-08",
+                "time": "11:30 AM",
+                "doctor": "Dr. Anjali Verma",
+                "department": "Neurology",
+                "reason": "Migraine management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "MRI Brain",
+                "date": "2023-11-20",
+                "result": "No abnormalities",
+                "normal_range": "No abnormalities"
+            }
+        ],
+        "specialty": "Neurologist"
+    },
+    {
+        "patient_id": "100026",
+        "name": "Arjun Kapoor",
+        "age": 29,
+        "gender": "Male",
+        "address": "112 Banyan Tree Lane, Pune, India",
+        "phone": "+91-9123456789",
+        "email": "arjun.kapoor@example.com",
+        "insurance": {
+            "provider": "LifeGuard",
+            "policy_number": "LG567890"
+        },
+        "medical_history": [
+            {
+                "condition": "Peptic Ulcer",
+                "diagnosed_date": "2022-09-14",
+                "medications": [
+                    {
+                        "name": "Pantoprazole",
+                        "dosage": "40mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Shellfish"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Hepatitis A",
+                "date": "2023-05-25"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-01",
+                "time": "10:00 AM",
+                "doctor": "Dr. Nisha Singh",
+                "department": "Gastroenterology",
+                "reason": "Ulcer follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Endoscopy",
+                "date": "2023-12-15",
+                "result": "Healing ulcer",
+                "normal_range": "No ulcer"
+            }
+        ],
+        "specialty": "Gastroenterologist"
+    },
+    {
+        "patient_id": "100027",
+        "name": "Ritika Patel",
+        "age": 33,
+        "gender": "Female",
+        "address": "901 Sunshine Avenue, Ahmedabad, India",
+        "phone": "+91-9988776655",
+        "email": "ritika.patel@example.com",
+        "insurance": {
+            "provider": "SecureLife",
+            "policy_number": "SL678901"
+        },
+        "medical_history": [
+            {
+                "condition": "Sinusitis",
+                "diagnosed_date": "2023-01-20",
+                "medications": [
+                    {
+                        "name": "Amoxicillin",
+                        "dosage": "500mg",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Dairy"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-09-15"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-04-12",
+                "time": "9:30 AM",
+                "doctor": "Dr. Suresh Deshmukh",
+                "department": "Otolaryngology",
+                "reason": "Sinus check-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "CT Scan Sinuses",
+                "date": "2024-02-10",
+                "result": "Mild inflammation",
+                "normal_range": "No inflammation"
+            }
+        ],
+        "specialty": "ENT Specialist"
+    },
+    {
+        "patient_id": "100028",
+        "name": "Vikram Rao",
+        "age": 45,
+        "gender": "Male",
+        "address": "56 Cedar Street, Hyderabad, India",
+        "phone": "+91-9876543210",
+        "email": "vikram.rao@example.com",
+        "insurance": {
+            "provider": "MediShield",
+            "policy_number": "MS789012"
+        },
+        "medical_history": [
+            {
+                "condition": "Type 2 Diabetes",
+                "diagnosed_date": "2020-08-15",
+                "medications": [
+                    {
+                        "name": "Metformin",
+                        "dosage": "500mg",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Latex"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-12-01"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-07-15",
+                "time": "11:00 AM",
+                "doctor": "Dr. Neha Bhattacharya",
+                "department": "Endocrinology",
+                "reason": "Diabetes management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "HbA1c",
+                "date": "2024-03-10",
+                "result": "7.2%",
+                "normal_range": "4.0-5.6%"
+            }
+        ],
+        "specialty": "Endocrinologist"
+    },
+    {
+        "patient_id": "100029",
+        "name": "Priya Nair",
+        "age": 28,
+        "gender": "Female",
+        "address": "301 Tulip Residency, Thiruvananthapuram, India",
+        "phone": "+91-9876123456",
+        "email": "priya.nair@example.com",
+        "insurance": {
+            "provider": "HealthSafe",
+            "policy_number": "HS901234"
+        },
+        "medical_history": [
+            {
+                "condition": "Rheumatoid Arthritis",
+                "diagnosed_date": "2022-06-30",
+                "medications": [
+                    {
+                        "name": "Methotrexate",
+                        "dosage": "15mg",
+                        "frequency": "Once weekly"
+                    },
+                    {
+                        "name": "Prednisone",
+                        "dosage": "5mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Peanuts"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Pneumococcal",
+                "date": "2023-10-05"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-06-10",
+                "time": "10:00 AM",
+                "doctor": "Dr. Rakesh Gupta",
+                "department": "Rheumatology",
+                "reason": "Arthritis follow-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Rheumatoid Factor",
+                "date": "2024-02-20",
+                "result": "Positive",
+                "normal_range": "Negative"
+            }
+        ],
+        "specialty": "Rheumatologist"
+    },
+    {
+        "patient_id": "100030",
+        "name": "Arjun Menon",
+        "age": 40,
+        "gender": "Male",
+        "address": "12 Palm Grove, Chennai, India",
+        "phone": "+91-9988776655",
+        "email": "arjun.menon@example.com",
+        "insurance": {
+            "provider": "LifeSecure",
+            "policy_number": "LS123890"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Obstructive Pulmonary Disease (COPD)",
+                "diagnosed_date": "2019-11-12",
+                "medications": [
+                    {
+                        "name": "Tiotropium",
+                        "dosage": "18mcg",
+                        "frequency": "Once daily"
+                    },
+                    {
+                        "name": "Salmeterol",
+                        "dosage": "50mcg",
+                        "frequency": "Twice daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Smoke"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Influenza",
+                "date": "2023-09-20"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-08-10",
+                "time": "09:00 AM",
+                "doctor": "Dr. Anjali Sinha",
+                "department": "Pulmonology",
+                "reason": "COPD management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Chest X-ray",
+                "date": "2024-01-15",
+                "result": "Hyperinflation",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Pulmonologist"
+    },
+    {
+        "patient_id": "100031",
+        "name": "Neha Verma",
+        "age": 50,
+        "gender": "Female",
+        "address": "45 Rose Apartments, New Delhi, India",
+        "phone": "+91-9090901234",
+        "email": "neha.verma@example.com",
+        "insurance": {
+            "provider": "HealthFirst",
+            "policy_number": "HF567890"
+        },
+        "medical_history": [
+            {
+                "condition": "Hypertension",
+                "diagnosed_date": "2018-05-10",
+                "medications": [
+                    {
+                        "name": "Amlodipine",
+                        "dosage": "5mg",
+                        "frequency": "Once daily"
+                    },
+                    {
+                        "name": "Losartan",
+                        "dosage": "50mg",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Penicillin"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "COVID-19",
+                "date": "2023-07-25"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-08-20",
+                "time": "11:30 AM",
+                "doctor": "Dr. Prakash Singh",
+                "department": "Cardiology",
+                "reason": "Hypertension check-up"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Electrocardiogram (ECG)",
+                "date": "2024-04-05",
+                "result": "Normal",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Cardiologist"
+    },
+    {
+        "patient_id": "100032",
+        "name": "Ravi Kapoor",
+        "age": 37,
+        "gender": "Male",
+        "address": "67 Lotus Villa, Jaipur, India",
+        "phone": "+91-9988007766",
+        "email": "ravi.kapoor@example.com",
+        "insurance": {
+            "provider": "CarePlus",
+            "policy_number": "CP901234"
+        },
+        "medical_history": [
+            {
+                "condition": "Migraine",
+                "diagnosed_date": "2017-02-25",
+                "medications": [
+                    {
+                        "name": "Sumatriptan",
+                        "dosage": "50mg",
+                        "frequency": "As needed"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Gluten"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Tetanus",
+                "date": "2023-05-12"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-08-05",
+                "time": "03:00 PM",
+                "doctor": "Dr. Meera Iyer",
+                "department": "Neurology",
+                "reason": "Migraine treatment"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "MRI Brain",
+                "date": "2023-12-15",
+                "result": "No abnormalities detected",
+                "normal_range": "Normal"
+            }
+        ],
+        "specialty": "Neurologist"
+    },
+    {
+        "patient_id": "100033",
+        "name": "Amit Patel",
+        "age": 52,
+        "gender": "Male",
+        "address": "23 Banjara Hills, Ahmedabad, India",
+        "phone": "+91-9876554321",
+        "email": "amit.patel@example.com",
+        "insurance": {
+            "provider": "SecureHealth",
+            "policy_number": "SH345678"
+        },
+        "medical_history": [
+            {
+                "condition": "Chronic Kidney Disease",
+                "diagnosed_date": "2021-07-19",
+                "medications": [
+                    {
+                        "name": "Losartan",
+                        "dosage": "50mg",
+                        "frequency": "Once daily"
+                    },
+                    {
+                        "name": "Erythropoietin",
+                        "dosage": "4000 IU",
+                        "frequency": "Weekly"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "NSAIDs"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "Hepatitis B",
+                "date": "2023-03-30"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-09-10",
+                "time": "10:00 AM",
+                "doctor": "Dr. Sameer Desai",
+                "department": "Nephrology",
+                "reason": "Kidney function monitoring"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Creatinine",
+                "date": "2024-02-15",
+                "result": "2.3 mg/dL",
+                "normal_range": "0.7-1.3 mg/dL"
+            }
+        ],
+        "specialty": "Nephrologist"
+    },
+    {
+        "patient_id": "100034",
+        "name": "Kavita Sharma",
+        "age": 29,
+        "gender": "Female",
+        "address": "18 Rainbow Apartments, Pune, India",
+        "phone": "+91-9867543210",
+        "email": "kavita.sharma@example.com",
+        "insurance": {
+            "provider": "MediAssist",
+            "policy_number": "MA654321"
+        },
+        "medical_history": [
+            {
+                "condition": "Polycystic Ovary Syndrome (PCOS)",
+                "diagnosed_date": "2022-04-12",
+                "medications": [
+                    {
+                        "name": "Metformin",
+                        "dosage": "500mg",
+                        "frequency": "Twice daily"
+                    },
+                    {
+                        "name": "Oral Contraceptives",
+                        "dosage": "One pill",
+                        "frequency": "Once daily"
+                    }
+                ]
+            }
+        ],
+        "allergies": [
+            "Sulfa drugs"
+        ],
+        "immunizations": [
+            {
+                "vaccine": "HPV",
+                "date": "2023-06-10"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-09-20",
+                "time": "12:00 PM",
+                "doctor": "Dr. Ritu Verma",
+                "department": "Gynecology",
+                "reason": "PCOS management"
+            }
+        ],
+        "lab_results": [
+            {
+                "test": "Ultrasound Pelvis",
+                "date": "2024-01-05",
+                "result": "Multiple ovarian cysts",
+                "normal_range": "No cysts"
+            }
+        ],
+        "specialty": "Gynecologist"
+    }            
+        
+        
+                        
+    
+]
